@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "allQuestion": [
+        {
+            "question":"Who is President of the United States?",
+            "choices":["Donald Trump","Hillary Clinton","Barack Obama","George W. Bush"],
+            "correctAnswer":0
+          },
+          {
+            "question":"Who is Prime Minister of the United Kingdom?",
+            "choices":["David Cameron","Gordon Brown","Theresa May","Tony Blair"],
+            "correctAnswer":2
+          },
+          {
+            "question":"Who is Prime Minister of the Netherlands?",
+            "choices":["Diederik Samson","Marc Rutte","Geert Wilders","Alexander Pechtold"],
+            "correctAnswer":1
+          },
+          {
+            "question":"Who is Prime Minister of the United Kingdom?",
+            "choices":["David Cameron","Gordon Brown","Theresa May","Tony Blair"],
+            "correctAnswer":2
+          },
+          {
+            "question":"Who is Prime Minister of the Netherlands?",
+            "choices":["Diederik Samson","Marc Rutte","Geert Wilders","Alexander Pechtold"],
+            "correctAnswer":1
+          },
+          {
+            "question":"In which city does the Dutch government reside?",
+            "choices":["Rotterdam","Amsterdam","The Hague","Utrecht"],
+            "correctAnswer":2
+          }
+    ]
+}
