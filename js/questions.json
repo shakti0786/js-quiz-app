@@ -1,9 +1,8 @@
 {
-    "status": "success",
     "allQuestion": [
         {
             "question":"Who is President of the United States?",
-            "choices":["Donald Trump","Hillary Clinton","Barack Obama","George W. Bush"],
+            "choices":["Donald Trump","Hillary Clinton","Barack Obama","George W. Bush","George W. Bush"],
             "correctAnswer":0
           },
           {
